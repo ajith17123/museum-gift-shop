@@ -1,0 +1,51 @@
+.track-sec {
+    background-color: #F9F4E8;
+    min-height: 90vh;
+    display: flex;
+    align-items: center;
+}
+.track-card {
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 20px;
+}
+.track-title {
+    color: #3E2723;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.track-sub {
+    color: #5D4037;
+    font-size: 0.95rem;
+    margin-bottom: 30px;
+}
+.track-form .form-label {
+    font-weight: 600;
+    color: #3E2723;
+    font-size: 0.9rem;
+}
+.track-form .form-control {
+    padding: 12px 15px;
+    border: 1px solid #E0D7C6;
+    background-color: #FCFAF5;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+.track-btn {
+    background-color: #3E2723;
+    color: #F9F4E8;
+    width: 100%;
+    padding: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 8px;
+    transition: 0.4s;
+    margin-top: 10px;
+}
+.track-btn:hover {
+    background-color: #D4AF37;
+    color: #3E2723;
+    transform: translateY(-3px);
+}

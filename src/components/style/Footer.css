@@ -1,0 +1,70 @@
+.foot-sec {
+    background-color: #3E2723;
+    color: #F9F4E8; 
+}
+.foot-title {
+    color: #D4AF37;
+    font-weight: 700;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+.foot-sub-title {
+    color: #D4AF37;
+    font-size: 1.25rem;
+    margin-bottom: 25px;
+    font-weight: 600;
+}
+.foot-para {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #E0D7C6;
+}
+.foot-links li {
+    margin-bottom: 12px;
+}
+.foot-links a {
+    color: #E0D7C6;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+}
+.foot-links a:hover {
+    color: #D4AF37;
+}    
+.social-icons a {
+    color: #F9F4E8;
+    font-size: 1.5rem;
+    margin-right: 15px;
+    transition: 0.3s;
+}
+.social-icons a:hover {
+    color: #D4AF37;
+    transform: scale(1.1);
+}
+.input-group .form-control {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    color: #F9F4E8;
+    border-radius: 4px;
+}    
+.input-group .form-control::placeholder {
+    color: #E0D7C6;
+    opacity: 0.7;
+}
+.btn-sub {
+    background-color: #D4AF37;
+    color: #3E2723;
+    font-weight: 600;
+    border: 1px solid #D4AF37;
+    padding: 0 20px;
+    transition: 0.3s;
+}
+.btn-sub:hover {
+    background-color: #F9F4E8;
+    color: #3E2723;
+}
+.copy-text {
+    font-size: 0.85rem;
+    color: rgba(224, 215, 198, 0.6);
+    margin-top: 20px;
+}
